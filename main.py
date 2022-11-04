@@ -13,7 +13,7 @@ criminal, cyber crime dll. Hacking Itu Ilegal bro! Apabila You
 terkena pidana karena sudah merusak suatu website pembuat tools
 jangan di bawa - bawa okeyy?! Kalo mau rusak suatu website mending
 website luar negeri aja. Jangan dalam negeri. 
-Karena Resiko ke Ciduk kang bakso lebih kecil, di banding dalam negeri. Paham Kan??
+Karena Resiko ke Ciduk kang bakso lebih kecil, di banding dalam negeri.
 """
 
 import os, time, sys
